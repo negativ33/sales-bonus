@@ -1,4 +1,4 @@
-https://github.com/negativ33/sales-bonus#
+https://github.com/negativ33/sales-bonus
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
